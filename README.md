@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Biz Teixeira</h1>
 <h3 align="center">Brazilian tecnology student, presently developmenting habilities in HTML5, CSS3, JavaScript and Python</h3>
 
-- 🌱 I’m currently learning **Python and Javascript Vanilla**
+- 🌱 I’m currently learning **HTML5, CSS3, Python and Javascript Vanilla**
 
 - 🤝 I’m looking for help with **JavaScript and Python**
 

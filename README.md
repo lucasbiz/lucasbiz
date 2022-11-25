@@ -9,7 +9,7 @@
 
 - 📫 You can contact me in **lucaasbizteixeira@gmail.com**
 
-- ⚡ Fun fact **Yes, im funny haha**
+- ⚡ Fun fact: **My first but unfinished Graduation was in Agronomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

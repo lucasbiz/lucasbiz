@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [lucasbiz.github.io/portfolio/](lucasbiz.github.io/portfolio/)
 
-- 📫 How to reach me **lucaasbizteixeira@gmail.com**
+- 📫 You can contact me in **lucaasbizteixeira@gmail.com**
 
 - ⚡ Fun fact **Yes, im funny haha**
 

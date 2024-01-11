@@ -5,10 +5,6 @@
 
 - 🤝 I’m looking for help with **JavaScript and Python**
 
-- 👨‍💻 All of my projects are available at [lucasbiz.github.io/portfolio/](lucasbiz.github.io/portfolio/)
-
-- 📫 You can contact me in **lucaasbizteixeira@gmail.com**
-
 - ⚡ Fun fact: **My first but unfinished Graduation was in Agronomy**
 
 <h3 align="left">Connect with me:</h3>
